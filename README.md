@@ -1,3 +1,3 @@
 # firsthub
 我的小程序
-hello！aitschool!
+hi！aitschool!嘻嘻嘻
